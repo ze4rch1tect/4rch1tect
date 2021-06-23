@@ -1,8 +1,6 @@
-### Hi there, I'm Nader Rais - aka [Nerosiar][website] 👋
+### Hi there, I'm Yassine Cherif - aka 4ch1tect 👋
 
-[![Website](https://img.shields.io/badge/website-nrais-brightgreen)](https://nrais.me)
-[![Twitter Follow](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FNaderRais)](https://twitter.com/NaderRais/)
-
+[![Twitter Follow](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FNaderRais)](https://twitter.com/Yassine77640081)
 
 <!--
 **nerosiar/nerosiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
