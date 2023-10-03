@@ -1,19 +1,18 @@
 ### Hi there, I'm Yassine Cherif - aka 4ch1tect 👋
 
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-cherif-a50190195/)
 [![Twitter Follow](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FYassineCHerif)](https://twitter.com/Yassine77640081)
-
 
 <!--
 **4rch1tect/4rch1tect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-## I'm an IT engineering student, passionate about Information Security!
-- I’m currently taking the SANS SEC401 course Security Essentials: Network, Endpoint, and Cloud.
+## An undergraduate Computer Science engineer and an Aspiring Cyber Security Professional!
+- I’m currently preparing for the OSCP certification.
 - I’m looking to collaborate on new projects idea.
 - I’m looking for help with new relationships.
-- Ask me about multipurpose development.
-- 2021 Goals: Contribute more to Open Source projects, Develop my technical and non-technical skills.
+- 2023 Goals: Contribute more to Open Source projects, Develop my technical and non-technical skills.
 - How to reach me: send me an email over yassine.cherif@esprit.tn.
 - How to get enrgy : I believe that motivation is a force that comes from within, otherwise it's a fake motivation.
 
@@ -24,9 +23,8 @@ Here are some ideas to get you started:
  
  ### Connect with me:
 
-[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Yassine77640081)
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-cherif-a50190195/)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yassine_cherif01/)
+[![Twitter Follow](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FYassineCHerif)](https://twitter.com/Yassine77640081)
 
 ### Languages:
 <p float="left"> 
