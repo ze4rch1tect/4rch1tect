@@ -1,4 +1,4 @@
-### Hi there, I'm Yassine Cherif - aka 4ch1tect 👋
+### Hi there, I'm Yassine Cherif - aka ze4ch1tect 👋
 
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-cherif-a50190195/)
 [![Twitter Follow](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FYassineCHerif)](https://twitter.com/Yassine77640081)
@@ -9,12 +9,10 @@
 Here are some ideas to get you started:
 -->
 ## An undergraduate Computer Science engineer and an Aspiring Cyber Security Professional!
-- I’m currently preparing for the OSCP certification.
+- I am a Cybersecurity intern @Mazars Cybersecurity CoE working on a Digital Forensics project.
 - I’m looking to collaborate on new projects idea.
-- I’m looking for help with new relationships.
-- 2023 Goals: Contribute more to Open Source projects, Develop my technical and non-technical skills.
+- 2024 Goals: Contribute more to Open Source projects, Develop my technical and non-technical skills.
 - How to reach me: send me an email over yassine.cherif@esprit.tn.
-- How to get enrgy : I believe that motivation is a force that comes from within, otherwise it's a fake motivation.
 
 
 ### Hackthebox :
